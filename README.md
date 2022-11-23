@@ -2,13 +2,11 @@
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  <!-- - [Links](#links) -->
 - [Monsters Rolodex](#monsters-rolodex)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
+    - [Links](#links)
   - [Installation | Getting Started](#installation--getting-started)
     - [Clone the Repository](#clone-the-repository)
   - [My process](#my-process)
@@ -25,9 +23,9 @@
 
 ![Comp](https://user-images.githubusercontent.com/93230374/203468739-b10abef1-b985-42ef-9e5a-39fb5798e0b2.png)
 
-<!-- ### Links -->
+### Links
 
-<!-- - Live Site URL: [Demo]() -->
+- Live Site URL: [Demo](https://monsters-rolodex-two-gules.vercel.app/)
 
 ## Installation | Getting Started
 
